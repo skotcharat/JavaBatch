@@ -1,2 +1,2 @@
-module java {
+module javaYing {
 }
